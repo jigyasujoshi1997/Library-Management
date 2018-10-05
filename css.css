@@ -7,14 +7,14 @@ html{
 div.logo{
 	position:relative;
 	left:5;
-	padding:20px; 
+	padding:26px; 
 	text-align:left;
 	float: left;
 	display:inline;
  }
  div.jecrc_college{
  	position:fixed;
- 	top:15px;
+ 	top:12px;
  	text-align:right;
  	right:10%;
     color: green
